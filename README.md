@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on: Idk yet.
 - 📫 How to reach me: Through e-mail.
 - 😄 Pronouns: Any pronouns.
-- ⚡ Fun fact: I absolutely despise avocado, but I like guacamole somehoww.
+- ⚡ Fun fact: I absolutely despise avocado, but I like guacamole somehow.
 
 <!---
 laurapschulz/laurapschulz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
