@@ -2,7 +2,7 @@
 - 👀 I’m interested in: Game creation.
 - 🌱 I’m currently learning: Coding.
 - 💞️ I’m looking to collaborate on: Idk yet.
-- 📫 How to reach me: Through e-mail.
+- 📫 How to reach me: Through e-mail (laura.schulz@escola.pr.gov.br).
 - 😄 Pronouns: Any pronouns.
 - ⚡ Fun fact: I absolutely despise avocado, but I like guacamole somehow.
 
