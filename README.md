@@ -5,12 +5,12 @@
 - 😄 Pronouns: Any pronouns.
 - ⚡ Fun fact: I absolutely despise avocado, but I like guacamole somehow.
 
-- Oi, eu sou @laurapschulz
-- Estou interessada em: Desenvolvimento de sistemas.
-- Estou atualmente aprendendo sobre: Jogos Digitais & Computação Gráfica.
-- Como me contatar: Por e-mail.
-- Pronomes: Qualquer pronome.
-- Fato engraçado: Eu absolutamente odeio abacate, mas por algum motivo eu gosto de guacamole.
+- 👋 Oi, eu sou @laurapschulz
+- 👀 Estou interessada em: Desenvolvimento de sistemas.
+- 🌱 Estou atualmente aprendendo sobre: Jogos Digitais & Computação Gráfica.
+- 📫 Como me contatar: Por e-mail.
+- 😄 Pronomes: Qualquer pronome.
+- ⚡ Fato engraçado: Eu absolutamente odeio abacate, mas por algum motivo eu gosto de guacamole.
 
 <!---
 laurapschulz/laurapschulz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
